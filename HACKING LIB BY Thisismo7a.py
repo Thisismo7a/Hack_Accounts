@@ -3,7 +3,7 @@ import webbrowser
 print('اشترك ليتم بدء التنزيل')
 webbrowser.open('https://www.facebook.com/thisismo7a')
 print('اشترك ليتم بدء التنزيل')
-webbrowser.open('https://www.instagram.com/Thisismo7a/')
+webbrowser.open('https://www.instagram.com/mo7a.py/')
 print('شكرا على الإشتراك هذا البرنامج أنجز من DEVIL سوف تبدأ عملية التثبيت')
 os.system('pip install selenium')
 os.system('pip install requests')
